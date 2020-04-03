@@ -31,4 +31,4 @@ while True:
         total_1 = total_1 + random.randint(-6, 8)
         total_2 = total_2 + random.randint(-5, 6)
 
-    time.sleep(1)
+    time.sleep(.25)
